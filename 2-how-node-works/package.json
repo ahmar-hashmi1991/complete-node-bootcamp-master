@@ -1,0 +1,5 @@
+{
+    "scripts": {
+       "start": "set UV_THREADPOOL_SIZE=1 & node ./starter/event-loop.js"
+    }
+}
